@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hacktech</string>
+    <string name="trait1">good</string>
+    <string name="trait2">lawful</string>
+    <string name="traitNeg1">evil</string>
+    <string name="traitNeg2">chaotic</string>
+    <string name="option1">\" \"</string>
+</resources>
